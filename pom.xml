@@ -18,6 +18,7 @@
         <module>SpringCloudEureka</module>
         <module>SpringCloudProvider</module>
         <module>SpringCloudConsumer</module>
+        <module>SpringCloudFeign</module>
     </modules>
 
     <packaging>pom</packaging>
