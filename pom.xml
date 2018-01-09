@@ -19,6 +19,8 @@
         <module>SpringCloudProvider</module>
         <module>SpringCloudConsumer</module>
         <module>SpringCloudFeign</module>
+        <module>SpringCloudConfigServer</module>
+        <module>SpringCloudConfigClient</module>
     </modules>
 
     <packaging>pom</packaging>
