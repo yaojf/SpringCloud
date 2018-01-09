@@ -21,6 +21,7 @@
         <module>SpringCloudFeign</module>
         <module>SpringCloudConfigServer</module>
         <module>SpringCloudConfigClient</module>
+        <module>SpringCloudZuul</module>
     </modules>
 
     <packaging>pom</packaging>
