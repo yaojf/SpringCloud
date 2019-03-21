@@ -22,6 +22,7 @@
         <module>SpringCloudConfigServer</module>
         <module>SpringCloudConfigClient</module>
         <module>SpringCloudZuul</module>
+        <module>SpringCloudSample</module>
     </modules>
 
     <packaging>pom</packaging>
